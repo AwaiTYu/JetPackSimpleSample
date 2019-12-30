@@ -1,2 +1,2 @@
-include ':ViewModel'
+include ':ViewModel', ':livedata'
 rootProject.name='Touch'
